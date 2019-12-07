@@ -1,0 +1,39 @@
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\bin\Debug\WarriorX.exe.config
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\bin\Debug\WarriorX.exe
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\bin\Debug\WarriorX.pdb
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.csprojAssemblyReference.cache
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.MainForm.resources
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.Properties.Resources.resources
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.csproj.GenerateResource.cache
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.exe
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.pdb
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.GameForm.resources
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.HowToPlayForm.resources
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.EndForm.resources
+C:\Users\Yash Chatim\Engineering45\finalVersionOfGame\WarriorX\WarriorX\obj\Debug\WarriorX.PauseForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.exe.config
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.exe
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.pdb
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.EndForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.GameForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.HowToPlayForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.MainForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.PauseForm.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.Properties.Resources.resources
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.csproj.GenerateResource.cache
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.exe
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.pdb
+C:\Users\Yash Chatim\Engineering45\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.csprojAssemblyReference.cache
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.exe.config
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.exe
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\bin\Debug\WarriorX.pdb
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.csprojAssemblyReference.cache
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.EndForm.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.GameForm.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.HowToPlayForm.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.MainForm.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.PauseForm.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.Properties.Resources.resources
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.csproj.GenerateResource.cache
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.exe
+D:\C#\winFormsWarriorX\gameWarriorX\WarriorX\WarriorX\obj\Debug\WarriorX.pdb
