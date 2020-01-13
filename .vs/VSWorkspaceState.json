@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\gameWarriorX",
+    "\\gameWarriorX\\WarriorX",
+    "\\gameWarriorX\\WarriorX\\WarriorX"
   ],
+  "SelectedNode": "\\gameWarriorX\\WarriorX\\WarriorX.sln",
   "PreviewInSolutionExplorer": false
 }
